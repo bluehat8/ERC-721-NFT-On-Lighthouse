@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Credipath_flattened.sol": "Math"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Credipath_flattened.sol": {
+			"keccak256": "0x70c81604f663d68f81187d9d1d4b7b74b40ca7338f3d7f3dd2a4e6179120ec8f",
+			"urls": [
+				"bzz-raw://a6179883ee80856e3ab508ba3ac4749e5e03b0147c8679dbcee327875e8f67e7",
+				"dweb:/ipfs/QmZujT1kg88J6GT367Vqt2KnARjLNHR4YRJyn6gFDwtVAi"
+			]
+		}
+	},
+	"version": 1
+}
